@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Medora RCM – multi-page website template
 
 Pages: index.html (Home), about.html, specialties.html, platforms.html (Platforms & AI), resources.html, careers.html.
@@ -12,3 +13,6 @@ Open index.html in a browser, or upload the whole folder to any static host (Net
 - **Colours and fonts:** `--navy`, `--teal`, `--f-head`, `--f-body` at the top of assets/style.css.
 - **Forms:** contact, newsletter and job-application forms show a confirmation only. Connect them to your backend or a form service (Formspree, HubSpot, etc.).
 - Numbers, case studies, testimonials, awards, leadership and job listings are sample content. Replace them before going live.
+=======
+# aveshahealthcare
+>>>>>>> 478a2c7577fdaa7ebc6a88ed36aebbf0ebf9c511
